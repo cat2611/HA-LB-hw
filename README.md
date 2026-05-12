@@ -159,5 +159,5 @@ backend web_servers    # секция бэкенд
         server s3 127.0.0.1:7777 weight 4 check
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Задание 2](https://github.com/cat2611/HA-LB-hw/blob/main/img/tasc2.PNG)`
+
+![Задание 2](https://github.com/cat2611/HA-LB-hw/blob/main/img/tasc2.PNG)
